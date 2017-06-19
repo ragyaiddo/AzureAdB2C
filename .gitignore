@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Ragyaiddo.IdentityManager/bin/Debug
+/Ragyaiddo.IdentityManager/obj/Debug
+/Ragyaiddo.IdentityManager/obj/Debug/CoreCompileInputs.cache
+/Ragyaiddo.IdentityManager/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
